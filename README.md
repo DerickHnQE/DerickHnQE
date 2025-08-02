@@ -1,6 +1,4 @@
-## Hi there 👋
 
-<!--
 # 👋 E aí, tudo bem? Eu sou o Derick Henrique
 
 Atualmente estou estudando Ciência da Computação e migrando pra área de tecnologia, depois de alguns anos trabalhando com redes e telecomunicações (fibra óptica, ADSL, fusão... esse mundo todo).
@@ -31,6 +29,3 @@ A ideia do meu GitHub é compartilhar o que estou aprendendo, meus projetos (mes
 
 Se quiser trocar uma ideia, fica à vontade pra me chamar!  
 ✉️ [https://www.linkedin.com/in/derick-henrique/]
-
-
--->
